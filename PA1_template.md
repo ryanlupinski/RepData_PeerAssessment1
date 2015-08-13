@@ -1,22 +1,13 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-# Ryan Lupinksi
-# 8/9/2015
+# Reproducible Research: Peer Assessment 1
+### boo ya ka shaw
 
 ## Loading and preprocessing the data
-1. Load the data
-```{r}
-data <- read.csv("activity.csv", header = TRUE)
-data_df <- data.frame(data)
-```
-2. Format date and time 
-```{r}
+1. this is some gay list thing
 
+```r
+data <- read.csv("activity.csv", header = TRUE)
 ```
+
 ## What is mean total number of steps taken per day?
 
 
